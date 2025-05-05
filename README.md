@@ -1,4 +1,4 @@
-## CSE4112-Parallel-Processing-and-Distributed-System-Lab
+## CSE4112 Parallel Processing and Distributed System Lab
     Name: Shakil Hossan
     28th batch
     Department of Computer Science and Engineering
